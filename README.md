@@ -13,9 +13,16 @@ I'm a passionate Information Science Engineering student at Dayananda Sagar Coll
 - **Areas of Interest**: Cybersecurity, Machine Learning, Large Language Models
 
 ## 🚀 Experience
-**Noesys Software Pvt. Ltd., Bengaluru** (Sep 2024 - Nov 2024)
-- Engineered Python-based LLMs and workflow automation systems
-- Developed a Chrome extension for automated web scraping and data processing
+AI Intern | RootsGoods (December 2024 - Present)
+
+Working with cutting-edge LLMs and OpenCV technologies for maize kernel analysis
+Developing and implementing computer vision solutions for agricultural applications
+Contributing to the advancement of AI-driven agricultural technology
+
+Noesys Software Pvt. Ltd., Bengaluru (Sep 2024 - Nov 2024)
+
+Engineered Python-based LLMs and workflow automation systems
+Developed a Chrome extension for automated web scraping and data processing
 
 ## 🛠️ Featured Projects
 
