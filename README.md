@@ -16,7 +16,8 @@ I'm a passionate Information Science Engineering student at Dayananda Sagar Coll
 **Noesys Software Pvt. Ltd., Bengaluru** (Sep 2024 - Nov 2024)
 - Engineered Python-based LLMs and workflow automation systems
 - Developed a Chrome extension for automated web scraping and data processing
-
+**RootsGoods – AI Intern (Dec 2024 - Present)
+  
 ## 🛠️ Featured Projects
 
 ### Plant Leaf Disease Detector
