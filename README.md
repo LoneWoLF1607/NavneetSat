@@ -46,8 +46,7 @@ I'm a passionate Information Science Engineering student at Dayananda Sagar Coll
 ## 📫 Connect with Me
 - Email: navneetsatwik@gmail.com
 - Mobile: +91-984-590-7585
-- [LinkedIn Profile](#)
-- [GitHub Profile](#)
+- LinkedIN: www.linkedin.com/in/navneet-satwik-a1170925a
 
 ---
 *Always learning, always growing. Open to collaborations and new opportunities!*
