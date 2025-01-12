@@ -13,16 +13,14 @@ I'm a passionate Information Science Engineering student at Dayananda Sagar Coll
 - **Areas of Interest**: Cybersecurity, Machine Learning, Large Language Models
 
 ## 🚀 Experience
-AI Intern | RootsGoods (December 2024 - Present)
+**AI Intern | RootsGoods** (December 2024 - Present)
+- Working with cutting-edge LLMs and OpenCV technologies for maize kernel analysis
+- Developing and implementing computer vision solutions for agricultural applications
+- Contributing to the advancement of AI-driven agricultural technology
 
-Working with cutting-edge LLMs and OpenCV technologies for maize kernel analysis
-Developing and implementing computer vision solutions for agricultural applications
-Contributing to the advancement of AI-driven agricultural technology
-
-Noesys Software Pvt. Ltd., Bengaluru (Sep 2024 - Nov 2024)
-
-Engineered Python-based LLMs and workflow automation systems
-Developed a Chrome extension for automated web scraping and data processing
+**Noesys Software Pvt. Ltd., Bengaluru** (Sep 2024 - Nov 2024)
+- Engineered Python-based LLMs and workflow automation systems
+- Developed a Chrome extension for automated web scraping and data processing
 
 ## 🛠️ Featured Projects
 
@@ -48,7 +46,8 @@ Developed a Chrome extension for automated web scraping and data processing
 ## 📫 Connect with Me
 - Email: navneetsatwik@gmail.com
 - Mobile: +91-984-590-7585
-- LinkedIN:www.linkedin.com/in/navneet-satwik-a1170925a
+- [LinkedIn Profile](#)
+- [GitHub Profile](#)
 
 ---
 *Always learning, always growing. Open to collaborations and new opportunities!*
